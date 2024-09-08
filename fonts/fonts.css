@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+@font-face {
+    font-family: 'archangelsk';
+    src: url('archangelsk-webfont.woff2') format('woff2'),
+    url('archangelsk-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
